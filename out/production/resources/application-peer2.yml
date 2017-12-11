@@ -1,0 +1,16 @@
+server:
+  port: 8761
+spring:
+  profiles:
+    active: peer2
+  application:
+    name: eureka-server
+
+eureka:
+  instance:
+    hostname: slave3
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://slave1:${server.port}/eureka/

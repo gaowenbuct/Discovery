@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Discovery_main" target="1.8" />
+      <module name="Discovery_test" target="1.8" />
+      <module name="Eureka_main" target="1.8" />
+      <module name="Eureka_test" target="1.8" />
+      <module name="EurekaServer_main" target="1.8" />
+      <module name="EurekaServer_test" target="1.8" />
+      <module name="Gateway_main" target="1.8" />
+      <module name="Gateway_test" target="1.8" />
+      <module name="LoadBalance_main" target="1.8" />
+      <module name="LoadBalance_test" target="1.8" />
+      <module name="OMD-ServiceMain_main" target="1.8" />
+      <module name="OMD-ServiceMain_test" target="1.8" />
+      <module name="OMD-ServiceOrder_main" target="1.8" />
+      <module name="OMD-ServiceOrder_test" target="1.8" />
+      <module name="Routing_main" target="1.8" />
+      <module name="Routing_test" target="1.8" />
+      <module name="ServiceA_main" target="1.8" />
+      <module name="ServiceA_test" target="1.8" />
+      <module name="ServiceMain_main" target="1.8" />
+      <module name="ServiceMain_test" target="1.8" />
+      <module name="ServiceOrder_main" target="1.8" />
+      <module name="ServiceOrder_test" target="1.8" />
+      <module name="Tracing_main" target="1.8" />
+      <module name="Tracing_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

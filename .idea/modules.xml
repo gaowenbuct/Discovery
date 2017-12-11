@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Discovery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Discovery_main.iml" group="Discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Discovery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Discovery_test.iml" group="Discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OMD-ServiceMain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OMD-ServiceMain_main.iml" group="ServiceMain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OMD-ServiceMain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OMD-ServiceMain_test.iml" group="ServiceMain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OMD-ServiceOrder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OMD-ServiceOrder_main.iml" group="ServiceOrder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OMD-ServiceOrder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OMD-ServiceOrder_test.iml" group="ServiceOrder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Routing.iml" filepath="$PROJECT_DIR$/.idea/modules/Routing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Routing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Routing_main.iml" group="Routing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Routing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Routing_test.iml" group="Routing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceMain.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceMain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceMain_main.iml" group="ServiceMain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceMain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceMain_test.iml" group="ServiceMain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceOrder.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceOrder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceOrder_main.iml" group="ServiceOrder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServiceOrder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ServiceOrder_test.iml" group="ServiceOrder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tracing.iml" filepath="$PROJECT_DIR$/.idea/modules/Tracing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tracing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tracing_main.iml" group="Tracing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tracing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tracing_test.iml" group="Tracing" />
+    </modules>
+  </component>
+</project>

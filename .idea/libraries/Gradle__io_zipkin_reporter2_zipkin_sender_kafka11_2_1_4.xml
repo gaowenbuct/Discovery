@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.zipkin.reporter2:zipkin-sender-kafka11:2.1.4">
+    <CLASSES>
+      <root url="jar://D:/Repositories/Gradle/caches/modules-2/files-2.1/io.zipkin.reporter2/zipkin-sender-kafka11/2.1.4/726bced48deb0bf275fd7a1f0501139328ecc31d/zipkin-sender-kafka11-2.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Repositories/Gradle/caches/modules-2/files-2.1/io.zipkin.reporter2/zipkin-sender-kafka11/2.1.4/d5bed86e3aafa344a13db5ff630a4916a56db6df/zipkin-sender-kafka11-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
