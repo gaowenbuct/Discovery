@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":ServiceSystem" external.linked.project.path="$MODULE_DIR$/../../../ServiceSystem" external.root.project.path="$MODULE_DIR$/../../../Routing" external.system.id="GRADLE" external.system.module.group="omd" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../ServiceSystem">
+      <excludeFolder url="file://$MODULE_DIR$/../../../ServiceSystem/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ServiceSystem/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ServiceSystem/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

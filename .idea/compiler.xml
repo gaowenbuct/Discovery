@@ -20,10 +20,16 @@
       <module name="Routing_test" target="1.8" />
       <module name="ServiceA_main" target="1.8" />
       <module name="ServiceA_test" target="1.8" />
+      <module name="ServiceFinance_main" target="1.8" />
+      <module name="ServiceFinance_test" target="1.8" />
+      <module name="ServiceLogistic_main" target="1.8" />
+      <module name="ServiceLogistic_test" target="1.8" />
       <module name="ServiceMain_main" target="1.8" />
       <module name="ServiceMain_test" target="1.8" />
       <module name="ServiceOrder_main" target="1.8" />
       <module name="ServiceOrder_test" target="1.8" />
+      <module name="ServiceSystem_main" target="1.8" />
+      <module name="ServiceSystem_test" target="1.8" />
       <module name="Tracing_main" target="1.8" />
       <module name="Tracing_test" target="1.8" />
     </bytecodeTargetLevel>

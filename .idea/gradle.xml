@@ -8,57 +8,61 @@
         <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/.." />
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../Routing" />
+            <option value="$PROJECT_DIR$/../ServiceFinance" />
+            <option value="$PROJECT_DIR$/../ServiceLogistic" />
+            <option value="$PROJECT_DIR$/../ServiceOrder" />
+            <option value="$PROJECT_DIR$/../ServiceSystem" />
+            <option value="$PROJECT_DIR$/../Tracing" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../Routing" />
         <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/../Routing" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../Service/ServiceMain" />
-        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/../Service/ServiceMain" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../Service/ServiceOrder" />
-        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/../Service/ServiceOrder" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../ServiceMain" />
-        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/../ServiceMain" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../ServiceOrder" />
-        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
-        <option name="modules">
-          <set>
+            <option value="$PROJECT_DIR$/../ServiceFinance" />
+            <option value="$PROJECT_DIR$/../ServiceLogistic" />
             <option value="$PROJECT_DIR$/../ServiceOrder" />
+            <option value="$PROJECT_DIR$/../ServiceSystem" />
+            <option value="$PROJECT_DIR$/../Tracing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ServiceFinance" />
+        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ServiceFinance" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ServiceLogistic" />
+        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ServiceLogistic" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ServiceSystem" />
+        <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ServiceSystem" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -68,6 +72,13 @@
         <option name="gradleHome" value="D:/soft/gradle-4.3-rc-4" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../Routing" />
+            <option value="$PROJECT_DIR$/../ServiceFinance" />
+            <option value="$PROJECT_DIR$/../ServiceLogistic" />
+            <option value="$PROJECT_DIR$/../ServiceOrder" />
+            <option value="$PROJECT_DIR$/../ServiceSystem" />
             <option value="$PROJECT_DIR$/../Tracing" />
           </set>
         </option>
